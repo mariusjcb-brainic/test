@@ -1,0 +1,11 @@
+Target dependency graph (7 targets)
+testXcodeCloud (iOS) in testXcodeCloud, no dependencies
+testXcodeCloud (iOS) in testXcodeCloud, no dependencies
+testXcodeCloud (macOS) in testXcodeCloud, no dependencies
+Tests iOS in testXcodeCloud, depends on:
+testXcodeCloud (iOS) in testXcodeCloud (explicit)
+Tests iOS in testXcodeCloud, depends on:
+testXcodeCloud (iOS) in testXcodeCloud (explicit)
+Tests iOS in testXcodeCloud, no dependencies
+Tests macOS in testXcodeCloud, depends on:
+testXcodeCloud (macOS) in testXcodeCloud (explicit)
